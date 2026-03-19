@@ -37,7 +37,7 @@
 </div>
 
 <p align="center">
-  <i>Data Analyst with hands-on experience in Python, SQL, and Power BI.<br>
+  <i> Data Analyst with hands-on experience in Python, SQL, and Power BI.<br>
   I enjoy turning complex datasets into clean, actionable insights — building dashboards, uncovering patterns, and supporting data-driven decisions.</i>
 </p>
 
